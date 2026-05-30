@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartsncrypt",
+        "uuid": 799758,
+        "checksum": "zxqxr2"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
